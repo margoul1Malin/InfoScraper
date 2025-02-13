@@ -1,5 +1,9 @@
 # Instructions
 
+## Cloner le dépôt
+Créez un nouveau dossier allez dedans puis tappez:
+git clone https://github.com/margoul1Malin/InfoScraper.git
+
 ## Si c'est sur Windows Installer Python : 
 Lien : https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
 
